@@ -1,1 +1,1 @@
-This is my fist project YEY !!
+This is my first project YEY !!
